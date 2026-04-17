@@ -1,0 +1,51 @@
+product_id,product_name,category,price,stock_quantity
+1,Wireless Mouse,Electronics,24.99,150
+2,USB-C Charging Cable,Electronics,12.49,300
+3,Bluetooth Headphones,Electronics,59.99,120
+4,LED Desk Lamp,Home,34.95,80
+5,Ceramic Coffee Mug,Home,9.99,200
+6,Stainless Steel Water Bottle,Outdoors,18.50,140
+7,Camping Lantern,Outdoors,27.99,60
+8,Running Shoes,Sports,74.99,90
+9,Yoga Mat,Sports,21.99,110
+10,Notebook 3-Pack,Office,7.49,250
+11,Gel Ink Pen Set,Office,5.99,400
+12,Ergonomic Keyboard,Electronics,49.99,70
+13,Smartphone Stand,Electronics,14.99,180
+14,Throw Blanket,Home,29.95,95
+15,Memory Foam Pillow,Home,39.99,60
+16,Insulated Lunch Bag,Outdoors,22.50,130
+17,Hiking Backpack,Outdoors,54.99,75
+18,Basketball,Sports,19.99,85
+19,Dumbbell Set,Sports,44.99,50
+20,Desk Organizer Tray,Office,12.49,210
+21,Binder Clips Pack,Office,4.99,350
+22,Portable Power Bank,Electronics,29.99,95
+23,Wireless Earbuds,Electronics,49.50,140
+24,Decorative Wall Clock,Home,24.99,60
+25,Essential Oil Diffuser,Home,27.95,85
+26,Travel Thermos,Outdoors,16.99,170
+27,Collapsible Camping Chair,Outdoors,34.99,55
+28,Tennis Racket,Sports,64.99,40
+29,Resistance Bands Set,Sports,14.99,200
+30,Sticky Notes Cube,Office,6.49,280
+31,Paper Shredder,Office,49.99,45
+32,Noise-Cancelling Headset,Electronics,89.99,55
+33,4-Port USB Hub,Electronics,17.99,160
+34,Decorative Throw Pillow,Home,14.99,120
+35,Nonstick Frying Pan,Home,24.50,75
+36,Outdoor Flashlight,Outdoors,12.99,190
+37,Trekking Poles,Outdoors,39.99,65
+38,Soccer Ball,Sports,17.49,95
+39,Jump Rope,Sports,8.99,220
+40,Highlighter Set,Office,6.99,260
+41,Desk Calendar,Office,9.99,180
+42,Portable Bluetooth Speaker,Electronics,39.99,85
+43,HDMI Cable 6ft,Electronics,11.99,240
+44,Tabletop Picture Frame,Home,12.49,130
+45,Kitchen Cutting Board,Home,19.99,90
+46,Outdoor Water Filter,Outdoors,29.99,50
+47,Camping Cookware Set,Outdoors,44.99,40
+48,Volleyball,Sports,18.99,70
+49,Foam Roller,Sports,22.49,65
+50,Whiteboard Markers Pack,Office,7.99,300

@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,email,phone,city,state,signup_date
+1,Michael,Reeves,michael.reeves@example.com,555-201-4821,Phoenix,AZ,2023-01-14
+2,Sarah,Mitchell,sarah.mitchell@example.com,555-392-1148,Denver,CO,2023-01-22
+3,David,Hernandez,david.hernandez@example.com,555-284-9932,Seattle,WA,2023-02-03
+4,Emily,Turner,emily.turner@example.com,555-118-4472,Chicago,IL,2023-02-11
+5,Joshua,Bennett,joshua.bennett@example.com,555-903-5521,Miami,FL,2023-02-19
+6,Ashley,Cooper,ashley.cooper@example.com,555-771-2294,Atlanta,GA,2023-03-02
+7,Christopher,Young,christopher.young@example.com,555-662-9044,Portland,OR,2023-03-15
+8,Amanda,Price,amanda.price@example.com,555-447-8821,Las Vegas,NV,2023-03-27
+9,Matthew,Barnes,matthew.barnes@example.com,555-330-7712,San Diego,CA,2023-04-05
+10,Olivia,Howard,olivia.howard@example.com,555-552-9910,Charlotte,NC,2023-04-18
+11,Daniel,Lopez,daniel.lopez@example.com,555-219-6644,Houston,TX,2023-04-29
+12,Grace,Stewart,grace.stewart@example.com,555-441-2388,Columbus,OH,2023-05-07
+13,Andrew,Nguyen,andrew.nguyen@example.com,555-883-5520,San Jose,CA,2023-05-19
+14,Victoria,Reed,victoria.reed@example.com,555-774-1182,Indianapolis,IN,2023-06-01
+15,Jacob,Phillips,jacob.phillips@example.com,555-992-4471,Detroit,MI,2023-06-14
+16,Natalie,Gray,natalie.gray@example.com,555-663-2209,Orlando,FL,2023-06-27
+17,Anthony,Diaz,anthony.diaz@example.com,555-441-9930,San Antonio,TX,2023-07-05
+18,Chloe,Ramirez,chloe.ramirez@example.com,555-772-5511,Minneapolis,MN,2023-07-18
+19,Justin,Campbell,justin.campbell@example.com,555-339-8842,Kansas City,MO,2023-07-29
+20,Sophia,Morgan,sophia.morgan@example.com,555-552-1104,Nashville,TN,2023-08-03
+21,Ethan,Foster,ethan.foster@example.com,555-661-4420,Jacksonville,FL,2023-08-14
+22,Hannah,Brooks,hannah.brooks@example.com,555-882-3319,Milwaukee,WI,2023-08-27
+23,Logan,Perry,logan.perry@example.com,555-229-7741,Albuquerque,NM,2023-09-05
+24,Avery,Long,avery.long@example.com,555-448-5529,Omaha,NE,2023-09-18
+25,Tyler,Hughes,tyler.hughes@example.com,555-993-2201,Raleigh,NC,2023-09-29
+26,Lily,Watson,lily.watson@example.com,555-772-1184,Richmond,VA,2023-10-07
+27,Brandon,James,brandon.james@example.com,555-330-4478,Boise,ID,2023-10-19
+28,Zoe,Peterson,zoe.peterson@example.com,555-552-6631,New Orleans,LA,2023-10-30
+29,Kevin,Ross,kevin.ross@example.com,555-118-9920,Tampa,FL,2023-11-11
+30,Hailey,Jenkins,hailey.jenkins@example.com,555-441-7733,St. Louis,MO,2023-11-23
+31,Jason,Scott,jason.scott@example.com,555-883-5512,Memphis,TN,2023-12-04
+32,Aria,Griffin,aria.griffin@example.com,555-774-3391,Lexington,KY,2023-12-17
+33,Connor,Bryant,connor.bryant@example.com,555-992-4488,El Paso,TX,2023-12-29
+34,Stella,Hayes,stella.hayes@example.com,555-663-2204,Virginia Beach,VA,2024-01-08
+35,Jonathan,Myers,jonathan.myers@example.com,555-441-9939,Anchorage,AK,2024-01-19
+36,Claire,Wallace,claire.wallace@example.com,555-772-5518,Honolulu,HI,2024-01-31
+37,Patrick,West,patrick.west@example.com,555-339-8849,Des Moines,IA,2024-02-12
+38,Ellie,Stone,ellie.stone@example.com,555-552-1109,Birmingham,AL,2024-02-25
+39,Sean,Carpenter,sean.carpenter@example.com,555-201-4477,Providence,RI,2024-03-06
+40,Lucy,Greene,lucy.greene@example.com,555-392-1142,Spokane,WA,2024-03-18
+41,Adrian,Marshall,adrian.marshall@example.com,555-774-5521,Lincoln,NE,2024-03-29
+42,Brooke,Harrison,brooke.harrison@example.com,555-118-3304,Fort Worth,TX,2024-04-10
+43,Colin,Weaver,colin.weaver@example.com,555-229-6612,Albuquerque,NM,2024-04-22
+44,Daniela,Sharp,daniela.sharp@example.com,555-552-4471,Atlanta,GA,2024-05-03
+45,Eric,Walton,eric.walton@example.com,555-339-9933,Portland,OR,2024-05-15
+46,Fiona,Becker,fiona.becker@example.com,555-772-2208,Miami,FL,2024-05-27
+47,Gabriel,Jennings,gabriel.jennings@example.com,555-441-7744,Seattle,WA,2024-06-08
+48,Harper,Little,harper.little@example.com,555-663-1183,Chicago,IL,2024-06-19
+49,Ian,Barrett,ian.barrett@example.com,555-993-5524,Charlotte,NC,2024-07-01
+50,Jade,Armstrong,jade.armstrong@example.com,555-330-8841,San Diego,CA,2024-07-14
+51,Kyle,Stevens,kyle.stevens@example.com,555-552-3390,Las Vegas,NV,2024-07-26
+52,Leah,Walters,leah.walters@example.com,555-883-2207,Columbus,OH,2024-08-07
+53,Mason,Goodwin,mason.goodwin@example.com,555-774-9931,Indianapolis,IN,2024-08-19
+54,Nora,Briggs,nora.briggs@example.com,555-118-4479,Detroit,MI,2024-08-30
+55,Owen,Chandler,owen.chandler@example.com,555-772-5519,Orlando,FL,2024-09-11
+56,Piper,Holmes,piper.holmes@example.com,555-339-2205,San Antonio,TX,2024-09-23
+57,Quinn,Abbott,quinn.abbott@example.com,555-552-8843,Minneapolis,MN,2024-10-04
+58,Roman,Page,roman.page@example.com,555-441-1188,Kansas City,MO,2024-10-16
+59,Sienna,Warner,sienna.warner@example.com,555-663-4470,Nashville,TN,2024-10-28
+60,Tristan,Boone,tristan.boone@example.com,555-992-5513,Richmond,VA,2024-11-09
+61,Uma,Potter,uma.potter@example.com,555-201-6632,Boise,ID,2024-11-21
+62,Victor,Reeves,victor.reeves@example.com,555-392-4476,Newark,NJ,2024-12-02
+63,Willa,Shaw,willa.shaw@example.com,555-284-1187,Buffalo,NY,2024-12-14
+64,Xavier,Paulson,xavier.paulson@example.com,555-118-5523,Chandler,AZ,2024-12-27
+65,Yasmine,Conrad,yasmine.conrad@example.com,555-903-3394,Plano,TX,2025-01-08
+66,Zachary,Holcomb,zachary.holcomb@example.com,555-771-2203,Durham,NC,2025-01-20
+67,Abigail,Finley,abigail.finley@example.com,555-662-9938,Lubbock,TX,2025-02-01
+68,Bennett,Osborne,bennett.osborne@example.com,555-447-5517,Scottsdale,AZ,2025-02-13
+69,Camila,Shepard,camila.shepard@example.com,555-330-8847,Modesto,CA,2025-02-25
+70,Declan,Whitaker,declan.whitaker@example.com,555-552-1181,Shreveport,LA,2025-03-09
+71,Eden,McKinney,eden.mckinney@example.com,555-219-4473,Akron,OH,2025-03-21
+72,Finnegan,Lowry,finnegan.lowry@example.com,555-441-9936,Mobile,AL,2025-04-02
+73,Giselle,Haney,giselle.haney@example.com,555-883-5528,Amarillo,TX,2025-04-14
+74,Hudson,Dotson,hudson.dotson@example.com,555-774-3398,Tallahassee,FL,2025-04-26
+75,Isla,Pratt,isla.pratt@example.com,555-992-2206,Huntsville,AL,2025-05-08
+76,Julian,Forbes,julian.forbes@example.com,555-663-5515,Overland Park,KS,2025-05-20
+77,Kendall,Sharpe,kendall.sharpe@example.com,555-441-1186,Grand Rapids,MI,2025-06-01
+78,Landon,Glass,landon.glass@example.com,555-772-4475,Knoxville,TN,2025-06-13
+79,Mariah,Hoover,mariah.hoover@example.com,555-339-9937,Worcester,MA,2025-06-25
+80,Nicolas,Joyner,nicolas.joyner@example.com,555-552-3308,Baton Rouge,LA,2025-07-07
+81,Olive,McClure,olive.mcclure@example.com,555-201-7742,Spokane,WA,2025-07-19
+82,Phoenix,Landry,phoenix.landry@example.com,555-392-5516,Boise,ID,2025-07-31
+83,Riley,Easton,riley.easton@example.com,555-284-3392,Chattanooga,TN,2025-08-12
+84,Sawyer,Colton,sawyer.colton@example.com,555-118-9934,Sioux Falls,SD,2025-08-24
+85,Tessa,Milton,tessa.milton@example.com,555-903-4475,Springfield,MO,2025-09-05
+86,Uriel,Corbett,uriel.corbett@example.com,555-771-1189,Salem,OR,2025-09-17
+87,Valerie,Keaton,valerie.keaton@example.com,555-662-5526,Lincoln,NE,2025-09-29
+88,Weston,Adler,weston.adler@example.com,555-447-3307,Fort Wayne,IN,2025-10-11
+89,Ximena,Rowe,ximena.rowe@example.com,555-330-6639,Augusta,GA,2025-10-23
+90,Yosef,Grady,yosef.grady@example.com,555-552-4474,Charleston,SC,2025-11-04
+91,Zara,Langston,zara.langston@example.com,555-219-1185,Peoria,IL,2025-11-16
+92,Aiden,Carver,aiden.carver@example.com,555-441-5527,Montgomery,AL,2025-11-28
+93,Bianca,Thorne,bianca.thorne@example.com,555-883-3306,Little Rock,AR,2025-12-10
+94,Carter,Monroe,carter.monroe@example.com,555-774-6630,Amarillo,TX,2025-12-22
+95,Daphne,Reagan,daphne.reagan@example.com,555-992-4472,Mobile,AL,2026-01-03
+96,Elliot,Sheldon,elliot.sheldon@example.com,555-663-1180,Shreveport,LA,2026-01-15
+97,Freya,Colson,freya.colson@example.com,555-441-9931,Akron,OH,2026-01-27
+98,Gavin,Truitt,gavin.truitt@example.com,555-772-5514,Knoxville,TN,2026-02-08
+99,Helena,Drake,helena.drake@example.com,555-339-2202,Worcester,MA,2026-02-20
+100,Isaac,Lowell,isaac.lowell@example.com,555-552-8840,Baton Rouge,LA,2026-03-04
+101,Jasmine,Carson,jasmine.carson@example.com,555-201-6638,Spokane,WA,2026-03-16
+102,Kieran,Abbott,kieran.abbott@example.com,555-392-4470,Boise,ID,2026-03-28
+103,Layla,Donovan,layla.donovan@example.com,555-284-1181,Chattanooga,TN,2026-04-09
+104,Malcolm,Reeves,malcolm.reeves@example.com,555-118-5527,Sioux Falls,SD,2026-04-21
+105,Nina,Calhoun,nina.calhoun@example.com,555-903-3390,Springfield,MO,2026-05-03
+106,Omar,Eastwood,omar.eastwood@example.com,555-771-2201,Salem,OR,2026-05-15
+107,Paige,Granger,paige.granger@example.com,555-662-9935,Lincoln,NE,2026-05-27
+108,Reid,Halston,reid.halston@example.com,555-447-5512,Fort Wayne,IN,2026-06-08
+109,Sabrina,Lowry,sabrina.lowry@example.com,555-330-8844,Augusta,GA,2026-06-20
+110,Theo,Jamison,theo.jamison@example.com,555-552-4479,Charleston,SC,2026-07-02
+111,Una,Kingsley,una.kingsley@example.com,555-219-1182,Peoria,IL,2026-07-14
+112,Vincent,Lawson,vincent.lawson@example.com,555-441-5523,Montgomery,AL,2026-07-26
+113,Whitney,Carson,whitney.carson@example.com,555-883-3309,Little Rock,AR,2026-08-07
+114,Xander,Matthews,xander.matthews@example.com,555-774-6635,Amarillo,TX,2026-08-19
+115,Yara,Preston,yara.preston@example.com,555-992-4478,Mobile,AL,2026-08-31
+116,Zayne,Quincy,zayne.quincy@example.com,555-663-1184,Shreveport,LA,2026-09-12
+117,Amira,Radford,amira.radford@example.com,555-441-9934,Akron,OH,2026-09-24
+118,Bryce,Stanton,bryce.stanton@example.com,555-772-5516,Knoxville,TN,2026-10-06
+119,Celia,Tanner,celia.tanner@example.com,555-339-2207,Worcester,MA,2026-10-18
+120,Darius,Underwood,darius.underwood@example.com,555-552-8846,Baton Rouge,LA,2026-10-30
+121,Elena,Vargas,elena.vargas@example.com,555-201-6635,Spokane,WA,2026-11-11
+122,Franklin,Webb,franklin.webb@example.com,555-392-4473,Boise,ID,2026-11-23
+123,Gemma,York,gemma.york@example.com,555-284-1189,Chattanooga,TN,2026-12-05
+124,Harrison,Zavala,harrison.zavala@example.com,555-118-5521,Sioux Falls,SD,2026-12-17
+125,Ivy,Allerton,ivy.allerton@example.com,555-903-3397,Springfield,MO,2026-12-29
+126,Jonas,Bellamy,jonas.bellamy@example.com,555-771-2204,Salem,OR,2027-01-10
+127,Kylee,Carmichael,kylee.carmichael@example.com,555-662-9932,Lincoln,NE,2027-01-22
+128,Lorenzo,Dupree,lorenzo.dupree@example.com,555-447-5519,Fort Wayne,IN,2027-02-03
+129,Mira,Eastman,mira.eastman@example.com,555-330-8840,Augusta,GA,2027-02-15
+130,Nolan,Fairbanks,nolan.fairbanks@example.com,555-552-4472,Charleston,SC,2027-02-27
+131,Opal,Garrison,opal.garrison@example.com,555-219-1188,Peoria,IL,2027-03-11
+132,Pierce,Holliday,pierce.holliday@example.com,555-441-5525,Montgomery,AL,2027-03-23
+133,Queenie,Irwin,queenie.irwin@example.com,555-883-3301,Little Rock,AR,2027-04-04
+134,Rafael,Jeffers,rafael.jeffers@example.com,555-774-6637,Amarillo,TX,2027-04-16
+135,Selena,Kendrick,selena.kendrick@example.com,555-992-4471,Mobile,AL,2027-04-28
+136,Trent,Lambert,trent.lambert@example.com,555-663-1186,Shreveport,LA,2027-05-10
+137,Umaiza,Mattson,umaiza.mattson@example.com,555-441-9939,Akron,OH,2027-05-22
+138,Vaughn,Norwood,vaughn.norwood@example.com,555-772-5510,Knoxville,TN,2027-06-03
+139,Winter,Oakley,winter.oakley@example.com,555-339-2209,Worcester,MA,2027-06-15
+140,Xavier,Penn,xavier.penn@example.com,555-552-8848,Baton Rouge,LA,2027-06-27
+141,Yvette,Quintero,yvette.quintero@example.com,555-219-1181,Peoria,IL,2027-07-09
+142,Zander,Ricks,zander.ricks@example.com,555-441-5529,Montgomery,AL,2027-07-21
+143,Amelia,Sorenson,amelia.sorenson@example.com,555-883-3303,Little Rock,AR,2027-08-02
+144,Bryson,Templeton,bryson.templeton@example.com,555-774-6633,Amarillo,TX,2027-08-14
+145,Cassidy,Underhill,cassidy.underhill@example.com,555-992-4476,Mobile,AL,2027-08-26
+146,Dominic,Valdez,dominic.valdez@example.com,555-663-1189,Shreveport,LA,2027-09-07
+147,Eloise,Whitley,eloise.whitley@example.com,555-441-9930,Akron,OH,2027-09-19
+148,Fletcher,Xenos,fletcher.xenos@example.com,555-772-5513,Knoxville,TN,2027-10-01
+149,Gwen,Yardley,gwen.yardley@example.com,555-339-2203,Worcester,MA,2027-10-13
+150,Hugo,Zimmerman,hugo.zimmerman@example.com,555-552-8845,Baton Rouge,LA,2027-10-25
+151,Isadora,Allbright,isadora.allbright@example.com,555-201-6631,Spokane,WA,2027-11-06
+152,Jensen,Bowman,jensen.bowman@example.com,555-392-4478,Boise,ID,2027-11-18
+153,Kallie,Crosby,kallie.crosby@example.com,555-284-1186,Chattanooga,TN,2027-11-30
+154,Lukas,Denton,lukas.denton@example.com,555-118-5524,Sioux Falls,SD,2027-12-12
+155,Marina,Eldridge,marina.eldridge@example.com,555-903-3393,Springfield,MO,2027-12-24
+156,Noah,Flanders,noah.flanders@example.com,555-771-2207,Salem,OR,2028-01-05
+157,Ophelia,Goddard,ophelia.goddard@example.com,555-662-9937,Lincoln,NE,2028-01-17
+158,Parker,Huxley,parker.huxley@example.com,555-447-5514,Fort Wayne,IN,2028-01-29
+159,Quincy,Ingram,quincy.ingram@example.com,555-330-8849,Augusta,GA,2028-02-10
+160,Rosalie,Jarrett,rosalie.jarrett@example.com,555-552-4470,Charleston,SC,2028-02-22
+161,Sullivan,Kearns,sullivan.kearns@example.com,555-201-6637,Spokane,WA,2028-03-05
+162,Thalia,Lombard,thalia.lombard@example.com,555-392-4471,Boise,ID,2028-03-17
+163,Ulises,Montford,ulises.montford@example.com,555-284-1183,Chattanooga,TN,2028-03-29
+164,Verity,Newcombe,verity.newcombe@example.com,555-118-5528,Sioux Falls,SD,2028-04-10
+165,Westin,Oakford,westin.oakford@example.com,555-903-3391,Springfield,MO,2028-04-22
+166,Xia,Prescott,xia.prescott@example.com,555-771-2206,Salem,OR,2028-05-04
+167,Yuri,Quimby,yuri.quimby@example.com,555-662-9933,Lincoln,NE,2028-05-16
+168,Zelda,Rafferty,zelda.rafferty@example.com,555-447-5511,Fort Wayne,IN,2028-05-28
+169,Adonis,Strickland,adonis.strickland@example.com,555-330-8846,Augusta,GA,2028-06-09
+170,Briar,Tolliver,briar.tolliver@example.com,555-552-4473,Charleston,SC,2028-06-21
+171,Cyrus,Underwood,cyrus.underwood@example.com,555-219-1184,Peoria,IL,2028-07-03
+172,Dahlia,Vernon,dahlia.vernon@example.com,555-441-5521,Montgomery,AL,2028-07-15
+173,Edison,Winters,edison.winters@example.com,555-883-3304,Little Rock,AR,2028-07-27
+174,Faye,Xander,faye.xander@example.com,555-774-6632,Amarillo,TX,2028-08-08
+175,Gannon,Yorke,gannon.yorke@example.com,555-992-4479,Mobile,AL,2028-08-20
+176,Helios,Zane,helios.zane@example.com,555-663-1182,Shreveport,LA,2028-09-01
+177,Imani,Ashford,imani.ashford@example.com,555-441-9938,Akron,OH,2028-09-13
+178,Jasper,Bell,jasper.bell@example.com,555-772-5512,Knoxville,TN,2028-09-25
+179,Kaia,Caldwell,kaia.caldwell@example.com,555-339-2208,Worcester,MA,2028-10-07
+180,Lucian,Darby,lucian.darby@example.com,555-552-8847,Baton Rouge,LA,2028-10-19
+181,Mabel,Eastwood,mabel.eastwood@example.com,555-201-6630,Spokane,WA,2028-10-31
+182,Nikolai,Frost,nikolai.frost@example.com,555-392-4474,Boise,ID,2028-11-12
+183,Odessa,Griffith,odessa.griffith@example.com,555-284-1185,Chattanooga,TN,2028-11-24
+184,Porter,Hastings,porter.hastings@example.com,555-118-5526,Sioux Falls,SD,2028-12-06
+185,Rowan,Iverson,rowan.iverson@example.com,555-903-3396,Springfield,MO,2028-12-18
+186,Sylvie,Jamison,sylvie.jamison@example.com,555-771-2202,Salem,OR,2028-12-30
+187,Talon,Kessler,talon.kessler@example.com,555-662-9931,Lincoln,NE,2029-01-11
+188,Una,Larson,una.larson@example.com,555-447-5516,Fort Wayne,IN,2029-01-23
+189,Vera,Merrick,vera.merrick@example.com,555-330-8842,Augusta,GA,2029-02-04
+190,Wyatt,Norcross,wyatt.norcross@example.com,555-552-4478,Charleston,SC,2029-02-16
+191,Xenia,Oakland,xenia.oakland@example.com,555-219-1180,Peoria,IL,2029-02-28
+192,Yahir,Pryce,yahir.pryce@example.com,555-441-5528,Montgomery,AL,2029-03-12
+193,Zinnia,Quaid,zinnia.quaid@example.com,555-883-3302,Little Rock,AR,2029-03-24
+194,Archer,Ramsey,archer.ramsey@example.com,555-774-6634,Amarillo,TX,2029-04-05
+195,Belen,Stroud,belen.stroud@example.com,555-992-4475,Mobile,AL,2029-04-17
+196,Cassian,Thorne,cassian.thorne@example.com,555-663-1188,Shreveport,LA,2029-04-29
+197,Della,Ulrich,della.ulrich@example.com,555-441-9932,Akron,OH,2029-05-11
+198,Emrys,Valentine,emrys.valentine@example.com,555-772-5511,Knoxville,TN,2029-05-23
+199,Fiora,Westbrook,fiora.westbrook@example.com,555-339-2201,Worcester,MA,2029-06-04
+200,Gideon,Yates,gideon.yates@example.com,555-552-8849,Baton Rouge,LA,2029-06-16
