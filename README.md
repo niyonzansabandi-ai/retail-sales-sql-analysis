@@ -104,30 +104,21 @@ retail_sales_analytics/
 - Average Order Value is stable across the dataset.
 - Returning customers tend to buy again quickly.
 
-Retail Sales SQL Analysis — End-to-End Business Insights from a Multi-Table Database
+## Project Summary
 
-Project Overview
 This project is a complete SQL analytics case study built on a multi-table retail sales database. The goal was to explore customer behavior, product performance, revenue trends, and store operations using real-world business questions. I designed and executed 15 production-quality SQL queries, each focused on uncovering insights that support data-driven decision-making in retail and e-commerce environments. The project demonstrates my ability to work with relational data, write efficient SQL, and translate raw data into clear, actionable insights that matter to the business.
 
-Business Problem
+### Business Problem
 Retail organizations generate large volumes of transactional data, but turning that data into strategy requires structured analysis. This project focuses on answering questions that help businesses identify top-performing products and categories, understand customer purchasing patterns, evaluate store performance, detect seasonality, and measure the impact of discounts and promotions. These insights support decisions around pricing, inventory, marketing, and customer retention.
 
-Approach and Methodology
+### Approach and Methodology
 Using a normalized SQLite database with tables for customers, products, stores, sales, and transactions, I validated data integrity, mapped out the schema, and wrote 15 SQL queries using joins, aggregations, window functions, and subqueries. Each query answers a real business question and mirrors the workflow of a data analyst working with retail data. The project is organized with a clean, reproducible folder structure and clear documentation.
 
-Key Insights
-Revenue is concentrated among a small group of products and categories.
-High-value customers purchase more frequently and across more product categories.
-Sales show strong seasonal patterns, with clear monthly spikes.
-Certain stores consistently outperform others, suggesting differences in location or customer demographics.
-Promotions increase transaction volume but do not always lead to higher revenue.
-
-Skills Demonstrated
+### Skills Demonstrated
 SQL (joins, CTEs, window functions, aggregations, subqueries), data modeling, schema interpretation, business analytics, insight generation, reproducible project structure, and clear communication of technical findings.
 
-Why This Project Matters
+### Why This Project Matters
 This project showcases my ability to think like an analyst — not just write SQL. It demonstrates how I approach a business problem, structure a data investigation, and communicate insights that support real decision-making. It serves as a flagship example of my SQL, analytics, and storytelling capabilities.
-
 
 ## Tools Used
 
